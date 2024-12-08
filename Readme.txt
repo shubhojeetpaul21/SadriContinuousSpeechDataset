@@ -18,14 +18,15 @@ Contents:
 		Corresponding transcriptions for each audio file
 
 Disclaimer:
-	This dataset is only a sample and contains a subset of the full data. The complete version of the dataset, which will include additional samples and metadata, will be released publicly following the publication of the associated research paper.
+This dataset is only a sample and contains a subset of the full data. The complete version of the dataset, which will include additional samples and metadata, will be released publicly following the publication of the associated research paper.
 
 Future Updates
-	After the journal paper is accepted and published, the full dataset will be made available for academic and research use.
+After the journal paper is accepted and published, the full dataset will be made available for academic and research use.
 
 License and Usage
-	License: The data is shared strictly for non-commercial and academic research purposes only. Redistribution, commercial use, or use for purposes other than academic research is prohibited.
-	Citation: Proper citation of the associated journal paper is required for any use of this data. Citation details will be provided once the paper is published.
+License: The data is shared strictly for non-commercial and academic research purposes only. Redistribution, commercial use, or use for purposes other than academic research is prohibited.
+
+Citation: Proper citation of the associated journal paper is required for any use of this data. Citation details will be provided once the paper is published.
 
 
 Contact
