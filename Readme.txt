@@ -2,6 +2,8 @@
 
 README - Sadri Continuous Speech Dataset
 
+Author(s): Shubhojeet Paul, Vandana Bhattacharjee, Sujan Kumar Saha
+
 Overview:
 	This dataset contains 2 hours of continuous speech data in Sadri, which has been collected as part of the research for a journal paper currently under review. The data is provided as sample data for review purposes only. The full dataset will be made available after the paper is officially published.
 
